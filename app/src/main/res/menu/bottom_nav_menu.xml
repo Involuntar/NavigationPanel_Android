@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/form"
+        android:title="Форма"
+        android:icon="@drawable/icons8_home"/>
+    <item
+        android:id="@+id/test"
+        android:title="Тест"
+        android:icon="@drawable/profile_1335_svgrepo_com"/>
+    <item
+        android:id="@+id/push"
+        android:title="Уведомление"
+        android:icon="@drawable/test_data_svgrepo_com"/>
+</menu>
